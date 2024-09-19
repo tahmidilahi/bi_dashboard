@@ -25,9 +25,9 @@
 - How can these forecasts help internal stakeholders plan resource utilization and cost optimization?
 
 # Solution
-- <assets/img/dash1>
-- <assets/img/dash2>
-- <assets/img/dash3>
+![Dashboard 1](assets/img/dash1.png)
+![Dashboard 2](assets/img/dash2.png)
+![Dashboard 3](assets/img/dash3.png)
 
 # Key Metrics and Insights:
 ## Platform Fees Impact on Revenue
