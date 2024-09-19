@@ -25,11 +25,11 @@
 - How can these forecasts help internal stakeholders plan resource utilization and cost optimization?
 
 # Solution
--Performance Overview   
+- *Page 1:* Performance Overview   
 ![Dashboard 1](assests/img/dash1.png)
-- Sales Analysis
+- *Page 2:* Sales Analysis
 ![Dashboard 2](assests/img/dash2.png)
-- Operation Analysis
+- *Page 3:* Operation Analysis
 ![Dashboard 3](assests/img/dsah3.png)
 
 # Key Metrics and Insights:
