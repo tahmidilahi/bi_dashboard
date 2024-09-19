@@ -1,5 +1,5 @@
 # Business Problem Overview
-## Blondie’s Pizza, particularly the Eglinton branch, faces two major challenges:
+## A major Toronto-based pizza franchise faces two major challenges due to relocation:
 - Platform Fees Impact on Revenue: Increasing costs from online order platforms are reducing overall revenue.
 - Sales-to-Overhead Cost Ratio: Rising operational costs, especially labour, are negatively affecting cost-effectiveness.
 
